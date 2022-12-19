@@ -15,6 +15,6 @@
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abmutungi&&theme=dark&show_icons=true" alt="abmutungi" /></p>
 </div>
-<div>
+<!-- <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abmutungi&theme=dark&show_icons=true&locale=en&layout=compact" alt="abmutungi" /></p>
-</div>
+</div> -->
