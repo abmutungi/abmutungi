@@ -13,7 +13,7 @@
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
 </p>
 <div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abmutungi&&theme=dark&show_icons=true" alt="abmutungi" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abmutungi&&theme=dark&show_icons=true" alt="abmutungi" /></p> -->
 </div>
 <!-- <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abmutungi&theme=dark&show_icons=true&locale=en&layout=compact" alt="abmutungi" /></p>
