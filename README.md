@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :office: Software Engineer @ Just Eat 🍔
-- 🛠️ Building: [Kazi](https://www.kazihub.co/)  💼, 🤫⚽️
+- 🛠️ Building: [Kazi](https://www.kazihub.co/)  💼, [⚽️ Project] 🤫
 - 📫 abmutungi@gmail.com
 
 <p align="left">
